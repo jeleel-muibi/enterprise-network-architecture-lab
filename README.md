@@ -110,9 +110,3 @@ The network architecture is implemented using:
 • Multi-layer switching topology  
 • Simulated WAN edge connectivity  
 • Voice and wireless service integration
-
-## Project Context
-
-This project explores foundational concepts in enterprise network architecture including segmentation, redundancy and scalable routing design.
-
-Many of the architectural ideas explored here later informed the networking design patterns used in the HybridOps platform.
