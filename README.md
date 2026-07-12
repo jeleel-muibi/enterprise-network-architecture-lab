@@ -15,7 +15,11 @@ The project models a scalable network environment using Cisco Packet Tracer to d
 
 ## Video Demonstration
 
+> :arrow_forward: **Watch the video on YouTube**
+
 [<img src="https://img.youtube.com/vi/4RbfAo2qR1A/maxresdefault.jpg" alt="Enterprise network architecture lab video demonstration" width="720">](https://www.youtube.com/watch?v=4RbfAo2qR1A)
+
+Video link: [https://www.youtube.com/watch?v=4RbfAo2qR1A](https://www.youtube.com/watch?v=4RbfAo2qR1A)
 
 ---
 
